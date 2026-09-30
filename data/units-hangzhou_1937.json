@@ -2538,7 +2538,7 @@
     "echelon": "battalion",
     "formation": "杭州城防群",
     "q": 62,
-    "r": 32,
+    "r": 31,
     "strength": 380,
     "maxStrength": 380,
     "attack": 6,
@@ -2548,7 +2548,8 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "deploymentNote": "修复：原(62,32)为water，调整至相邻陆地(62,31)，避免部署安全检查阻断战役。"
   },
   {
     "id": "HZ37_0121",
