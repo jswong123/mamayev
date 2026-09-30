@@ -9026,6 +9026,118 @@
         "level": 1,
         "owner": "soviet",
         "progress": 100
+      },
+      {
+        "q": 22,
+        "r": 15,
+        "type": "fieldworks",
+        "level": 2,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 23,
+        "r": 15,
+        "type": "fieldworks",
+        "level": 2,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 24,
+        "r": 15,
+        "type": "fieldworks",
+        "level": 2,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 25,
+        "r": 15,
+        "type": "fieldworks",
+        "level": 3,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 26,
+        "r": 15,
+        "type": "fieldworks",
+        "level": 2,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 22,
+        "r": 17,
+        "type": "fieldworks",
+        "level": 2,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 23,
+        "r": 17,
+        "type": "fieldworks",
+        "level": 2,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 24,
+        "r": 17,
+        "type": "fieldworks",
+        "level": 3,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 25,
+        "r": 17,
+        "type": "fieldworks",
+        "level": 3,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 26,
+        "r": 17,
+        "type": "fieldworks",
+        "level": 3,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 23,
+        "r": 19,
+        "type": "fieldworks",
+        "level": 2,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 24,
+        "r": 19,
+        "type": "fieldworks",
+        "level": 2,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 25,
+        "r": 19,
+        "type": "fieldworks",
+        "level": 3,
+        "owner": "soviet",
+        "progress": 100
+      },
+      {
+        "q": 26,
+        "r": 19,
+        "type": "fieldworks",
+        "level": 2,
+        "owner": "soviet",
+        "progress": 100
       }
     ],
     "minefields": [
@@ -9077,13 +9189,270 @@
         "owner": "soviet",
         "level": 1
       }
+    ],
+    "wallEdges": [
+      {
+        "from": {
+          "q": 22,
+          "r": 15
+        },
+        "to": {
+          "q": 23,
+          "r": 15
+        },
+        "section": "马马耶夫岗第一线野战防御墙",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 1,
+        "hp": 150,
+        "maxHp": 150,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 23,
+          "r": 15
+        },
+        "to": {
+          "q": 24,
+          "r": 15
+        },
+        "section": "马马耶夫岗第一线野战防御墙",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 1,
+        "hp": 150,
+        "maxHp": 150,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 24,
+          "r": 15
+        },
+        "to": {
+          "q": 25,
+          "r": 15
+        },
+        "section": "马马耶夫岗第一线野战防御墙",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 2,
+        "hp": 150,
+        "maxHp": 150,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 15
+        },
+        "to": {
+          "q": 26,
+          "r": 15
+        },
+        "section": "马马耶夫岗第一线野战防御墙",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 2,
+        "hp": 150,
+        "maxHp": 150,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 22,
+          "r": 16
+        },
+        "to": {
+          "q": 23,
+          "r": 16
+        },
+        "section": "马马耶夫岗第一线野战防御墙",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 1,
+        "hp": 150,
+        "maxHp": 150,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 23,
+          "r": 16
+        },
+        "to": {
+          "q": 24,
+          "r": 16
+        },
+        "section": "马马耶夫岗第一线野战防御墙",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 1,
+        "hp": 150,
+        "maxHp": 150,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 24,
+          "r": 16
+        },
+        "to": {
+          "q": 25,
+          "r": 16
+        },
+        "section": "马马耶夫岗第一线野战防御墙",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 2,
+        "hp": 150,
+        "maxHp": 150,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 16
+        },
+        "to": {
+          "q": 26,
+          "r": 16
+        },
+        "section": "马马耶夫岗第一线野战防御墙",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 2,
+        "hp": 150,
+        "maxHp": 150,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 23,
+          "r": 18
+        },
+        "to": {
+          "q": 24,
+          "r": 18
+        },
+        "section": "马马耶夫岗第二线加固战壕",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 1,
+        "hp": 130,
+        "maxHp": 130,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 24,
+          "r": 18
+        },
+        "to": {
+          "q": 25,
+          "r": 18
+        },
+        "section": "马马耶夫岗第二线加固战壕",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 1,
+        "hp": 130,
+        "maxHp": 130,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 18
+        },
+        "to": {
+          "q": 26,
+          "r": 18
+        },
+        "section": "马马耶夫岗第二线加固战壕",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 2,
+        "hp": 130,
+        "maxHp": 130,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 26,
+          "r": 18
+        },
+        "to": {
+          "q": 27,
+          "r": 18
+        },
+        "section": "马马耶夫岗第二线加固战壕",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 2,
+        "hp": 130,
+        "maxHp": 130,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 24,
+          "r": 19
+        },
+        "to": {
+          "q": 25,
+          "r": 19
+        },
+        "section": "马马耶夫岗第二线加固战壕",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 1,
+        "hp": 130,
+        "maxHp": 130,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 19
+        },
+        "to": {
+          "q": 26,
+          "r": 19
+        },
+        "section": "马马耶夫岗第二线加固战壕",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 1,
+        "hp": 130,
+        "maxHp": 130,
+        "status": "intact"
+      },
+      {
+        "from": {
+          "q": 26,
+          "r": 19
+        },
+        "to": {
+          "q": 27,
+          "r": 19
+        },
+        "section": "马马耶夫岗第二线加固战壕",
+        "type": "field_wall",
+        "owner": "soviet",
+        "level": 1,
+        "hp": 130,
+        "maxHp": 130,
+        "status": "intact"
+      }
     ]
   },
   "victoryConditions": {
     "deadlineTurn": 36,
-    "deadlineFailureText": "马马耶夫岗争夺进入下一阶段。",
+    "deadlineFailureText": "第36回合结束时依据102.0高地最终控制权判定胜负。",
     "german": {
-      "captureObjectives": {
+      "defendObjectivesUntilDeadline": {
         "mode": "all",
         "objectives": [
           {
@@ -9094,7 +9463,7 @@
             "r": 17
           }
         ],
-        "successText": "德军控制马马耶夫岗制高点。"
+        "successText": "德军在战斗阶段结束时控制102.0高地，德军胜利。"
       }
     },
     "soviet": {
@@ -9109,7 +9478,7 @@
             "r": 17
           }
         ],
-        "successText": "苏军守住马马耶夫岗至战斗阶段结束。"
+        "successText": "苏军坚持至战斗阶段结束并守住102.0高地，苏军胜利。"
       }
     }
   },
@@ -9219,6 +9588,21 @@
         "turn": 22,
         "label": "德军突击力量加强",
         "note": "德军追加步兵、突击工兵和炮兵。"
+      },
+      {
+        "turn": 8,
+        "label": "苏军第二批高地增援",
+        "note": "第95步兵师后续部队与炮兵支援投入。"
+      },
+      {
+        "turn": 12,
+        "label": "德军补充突击力量",
+        "note": "第295、71步兵师继续加强高地正面攻击。"
+      },
+      {
+        "turn": 16,
+        "label": "德军重炮支援加强",
+        "note": "第51军重炮支援进入战场。"
       }
     ]
   },
